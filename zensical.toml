@@ -12,6 +12,10 @@ nav = [
         "graph/dfs.md",
         "graph/toposort.md",
         "graph/dijkstra.md"
+    ]},
+    {"Trie" = [
+        "trie/trie.md",
+        "trie/count-distinct-substrings.md"
     ]}
 ]
 
