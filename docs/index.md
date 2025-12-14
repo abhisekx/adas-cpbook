@@ -1,5 +1,5 @@
 ---
-title: AD's Coding Diary
+title: 🔥Hola, Mortals!
 ---
 
 This is my coding diary.
