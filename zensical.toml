@@ -7,6 +7,10 @@ copyright = "Copyright &copy; 2025 Abhisek Das"
 
 nav = [
     {"Home" = "index.md"},
+    {"C++" = [
+        "cpp/index.md",
+        "cpp/vector.md"
+    ]},
     {"Graph" = [
         "graph/bfs.md",
         "graph/dfs.md",
@@ -17,6 +21,16 @@ nav = [
         "trie/trie.md",
         "trie/count-distinct-substrings.md"
     ]}
+]
+
+extra_javascript = [
+    "javascripts/katex.js",
+    "https://unpkg.com/katex@0/dist/katex.min.js",
+    "https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"
+]
+
+extra_css = [
+    "https://unpkg.com/katex@0/dist/katex.min.css"
 ]
 
 [project.theme]
